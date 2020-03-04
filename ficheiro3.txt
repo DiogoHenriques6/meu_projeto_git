@@ -1,0 +1,5 @@
+Este é o exemplo de um ficheiro de texto...
+
+Este commit tem o objetivo de atualizar o ficheiro 3
+
+Este exercício está englobado no âmbito de uma ficha prática de git
